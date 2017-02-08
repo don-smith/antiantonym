@@ -1,5 +1,7 @@
 antiantonym
 ==================
 
-> just a place to play
+> one opposed to opposition
+
+http://antiantonym.com
 
