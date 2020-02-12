@@ -3,5 +3,5 @@ antiantonym
 
 > one opposed to opposition
 
-http://antiantonym.com
+https://antiantonym.com
 
